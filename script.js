@@ -1,0 +1,1 @@
+class Init{constructor(){document.querySelector("#init").style.width="100%",document.querySelector("#init").style.height="100vh"}}const init=new Init;
